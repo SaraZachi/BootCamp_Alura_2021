@@ -1,2 +1,2 @@
 # BootCamp-2021
-Atividades das aulas do BootCamp 2021 da Alura
+Solved challenges from Alura's Data Science Boot Camp (2021) classes
